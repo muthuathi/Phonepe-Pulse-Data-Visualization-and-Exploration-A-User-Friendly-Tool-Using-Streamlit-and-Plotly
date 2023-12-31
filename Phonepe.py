@@ -13,9 +13,9 @@ from git.repo.base import repo
 
 # Setting up page configuration
 icon = Image.open("images.jpg")
-st.set_page_config(page_title= "Phonepe Pulse Data Visualization | By Jafar Hussain",
+st.set_page_config(page_title= "Phonepe Pulse Data Visualization,
                    
-                   menu_items={'About': """# This dashboard app is created by *Jafar Hussain*!
+                   menu_items={'About': """# This dashboard app is created by *Muthulakshmi*!
                                         Data has been cloned from Phonepe Pulse Github Repo"""},
                     page_icon= icon,
                    layout= "wide",
